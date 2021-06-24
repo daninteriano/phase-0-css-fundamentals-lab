@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+.header {
+  text-align: center;
+}
+#featured {
+  margin: 0 auto;
+}
+#navigation {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: goldenrod;
+  overflow: hidden;
+  text-align: center;
+}
